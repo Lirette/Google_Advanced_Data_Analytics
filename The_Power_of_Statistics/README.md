@@ -16,4 +16,4 @@ What is learned here is the concept of sampling and its applications in data wor
 This section explores how data professionals use confidence intervals to describe the uncertainty in their estimates. 
 ### Module 5: Introduction to hypothesis testing
 This section of the course describes how data professionals use hypothesis testing to help determine whether their results are statistically significant. 
-
+### Module 6: Course 4 end-of-course project
