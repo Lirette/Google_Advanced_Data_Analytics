@@ -1,13 +1,13 @@
 The Power of Statistics
+
 Course four of seven in the Google Advanced Data Analytics Professional Certificate program.
-Course four of seven in the Google Advanced Data Analytics Professional Certificate program.
-Course Description
-Explore descriptive and inferential statistics, basic probability and probability distributions, sampling, confidence intervals, and hypothesis testing.
+
+This course Explore descriptive and inferential statistics, basic probability and probability distributions, sampling, confidence intervals, and hypothesis testing.
 
 https://www.coursera.org/learn/the-power-of-statistics?specialization=google-advanced-data-analytics
 
 Module 1: Introduction to statistics
-In this section of the course, you’ll learn about the foundational role of statistics in data science. This section focuses on fundamental concepts of descriptive statistics, such as measures of central tendency, dispersion, and position.
+This section about the foundational role of statistics in data science. This section focuses on fundamental concepts of descriptive statistics, such as measures of central tendency, dispersion, and position.
 
 Module 2: Probability
 You will learn about fundamental concepts in probability. The first half of this section covers basic rules of probability (complement, addition, multiplication), conditional probability, and Bayes's theorem. The second part concentrates on three probability distributions: the binomial, Poisson, and normal distributions.
